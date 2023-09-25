@@ -13,3 +13,15 @@ h1 {
   margin-left: 20px;
   margin-right: 20px;
 }
+.centre {
+  background: purple;
+  margin-left: 35px;
+  margin-right: 35px;
+  text-align: center;
+}
+h2 {
+  color: white;
+}
+h3 {
+  text-align: centre;
+}
